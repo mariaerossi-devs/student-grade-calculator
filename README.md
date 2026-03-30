@@ -5,16 +5,16 @@ nota =float(input("digite sua nota: "))
 
 if nota>= 9:
 
-     print("excelente")
+   print("excelente")
 
 elif nota>= 7:
 
-     print("aprovado")
+   print("aprovado")
 
 elif nota>= 5:
 
-     print("recuperação")
+   print("recuperação")
 
 else:
 
-     print("reprovado")
+   print("reprovado")
